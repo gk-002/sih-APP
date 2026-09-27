@@ -1,3 +1,3 @@
-from app.ledger.cryptographic_ledger import CryptographicLedgerService
+from app.demo.scenarios import DemoScenarios
 
-__all__ = ["CryptographicLedgerService"]
+__all__ = ["DemoScenarios"]
